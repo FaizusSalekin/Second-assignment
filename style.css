@@ -5,6 +5,8 @@ body {
     font-family: 'Rubik', sans-serif;
 }
 
+/* Header Styles */
+
 header {
     display: flex;
     margin: 50px 50px;
@@ -38,6 +40,8 @@ header button {
     padding: 5px 10px;
 }
 
+/* Side Bar styles */
+
 .upcoming {
     padding: 20px;
     margin-left: 50px;
@@ -66,9 +70,10 @@ header button {
     background-color: rgb(199, 64, 64);
 }
 
+/* Blog Styles */
+
 .news {
     display: flex;
-    /* align-items: stretch; */
 }
 
 .transfers {
@@ -96,6 +101,8 @@ header button {
 #view-button {
     display: none;
 }
+
+/* Footer Styles */
 
 footer {
     margin-top: 100px;
